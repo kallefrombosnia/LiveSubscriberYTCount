@@ -1,0 +1,115 @@
+.App {
+  text-align: center;
+}
+
+.input{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: inline-block;
+}
+
+.styledInput{
+  border-radius: 4px;
+  color: black;
+  background-color: #ffffff;
+  border: 1px solid #364856;
+  height: 15px;
+  padding: 6px 12px;
+  float: left;
+}
+
+.styledDiv{
+  font-size: 15.5vw;
+  padding-top: 50px;
+}
+
+.channelName{
+  font-size: 3vw;
+  font-weight: 400;
+  padding-top: 20px;
+}
+
+.subscribeForm{
+  align-self: center;
+}
+
+.subscribeButton{
+  background-color: #0af;
+  border: none;
+  border-radius: 2px;
+  color: #fff;
+  padding: 1%;
+  width: 15%;
+  font-size: 2.5vw;
+  top: 28%;
+  display: none;
+}
+
+.viewCount{
+  font-weight: 400;
+  font-size: 2.5vw;
+}
+
+.viewCount.count{
+  font-weight: 500;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0px;
+    height: 40px;
+    width: 100%;
+    background: #246;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+.button {
+  display: none;
+  background-color: #16b108; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: left;
+  text-decoration: none;
+  font-size: 10px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  border-radius: 8px;
+  height: 10px;
+  width: 15px;
+  margin-left: 10px;
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.alert {
+  padding: 20px;
+  background-color: #f44336; /* Red */
+  color: white;
+  margin-bottom: 15px;
+  margin: 0px 200px 15px 200px;
+}
+
+.noteUpdate{
+  margin-top: 50px;
+  font-size: 3vw;
+  font-style: italic;
+  font-weight: 600;
+}
