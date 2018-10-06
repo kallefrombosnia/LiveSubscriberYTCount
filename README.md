@@ -17,4 +17,4 @@ Feel free to submit issues/pull request if you'd like to contribute.
 
 # Disclaimer
 
-The project forks and code by default redirects back to this repo. You can view the instructions to modify the code [here](https://github.com/akshatmittal/youtube-realtime/issues/14#issuecomment-247537299).
+Use at own risk. Didnt tested in production!
